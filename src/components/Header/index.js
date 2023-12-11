@@ -8,6 +8,7 @@ export default function Header() {
       <a href="/">
         <img src={logo} alt="MyContacts" width="201" />
       </a>
+
     </Container>
   );
 }
